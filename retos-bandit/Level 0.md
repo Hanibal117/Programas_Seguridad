@@ -25,9 +25,9 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 
 
 ## Notas adicionales
-ls listar archivo
-ls -la  listar archivos en forma extendida
-pwd muestra la ruta del directorio actual
+- ls listar archivo
+- ls -la  listar archivos en forma extendida
+- pwd muestra la ruta del directorio actual
 
 ## Referencias
 
