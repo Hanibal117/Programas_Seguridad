@@ -25,4 +25,6 @@ Tambien se podria con cat . /-
 - pwd saca la ruta
 
 ## Referencias
+https://www.google.com/search?q=dashed+filename
+http://tldp.org/LDP/abs/html/special-chars.html
 

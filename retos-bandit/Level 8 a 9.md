@@ -32,4 +32,5 @@ con el comando cat data.txt | sort | uniq -u se muestra  el resultado a raiz de 
 - 
 
 ## Referencias
+https://ryanstutorials.net/linuxtutorial/piping.php
 

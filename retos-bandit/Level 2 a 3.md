@@ -25,4 +25,5 @@ con el comando cat seguido de espacion diagonal invertida me aparece el resultad
 - pwd saca la ruta
 
 ## Referencias
+https://www.google.com/search?q=spaces+in+filename
 
