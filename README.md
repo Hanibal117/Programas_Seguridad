@@ -4,4 +4,4 @@
 Jesús Gerardo Velázquez Rodríguez
 clashimperila117@gmail.com
 
-1 Retos Bandit 0-9
+Retos Bandit 0-33
