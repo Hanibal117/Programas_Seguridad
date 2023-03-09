@@ -4,5 +4,5 @@
 Jesús Gerardo Velázquez Rodríguez
 clashimperila117@gmail.com
 
-Retos Bandit 0-33
-picoCTF
+- Retos Bandit 0-33
+- picoCTF
