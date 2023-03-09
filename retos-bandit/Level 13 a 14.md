@@ -6,7 +6,8 @@ ssh bandit13@bandit.labs.overthewire.org -p 2220
 wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 ssh, telnet, nc, openssl, s_client, nmap
- 
+
+
 
 ## Solución
 
