@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/picoCTF/where are the robots.md",
+                "file": "picoCTF/where are the robots.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/picoCTF/Insp3ct0r.md",
+                "file": "picoCTF/Insp3ct0r.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/picoCTF/where are the robots.md",
+                "file": "picoCTF/where are the robots.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/picoCTF/logon.md",
+                "file": "picoCTF/logon.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/picoCTF/dont-use-client-side.md",
+                "file": "picoCTF/dont-use-client-side.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/picoCTF/picobrowser.md",
+                "file": "picoCTF/picobrowser.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/picoCTF/Client-side-again.md",
+                "file": "picoCTF/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -231,19 +231,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6475f0e51ca13870",
+  "active": "0eecfd5601f61c74",
   "lastOpenFiles": [
+    "picoCTF",
     "retos-bandit/plantilla.md",
-    "retos-bandit/picoCTF/logon.md",
-    "retos-bandit/picoCTF/where are the robots.md",
-    "retos-bandit/picoCTF/picobrowser.md",
-    "retos-bandit/picoCTF/Level Lets Warm Up.md",
-    "retos-bandit/picoCTF/Client-side-again.md",
-    "retos-bandit/picoCTF/Level Warmed Up.md",
+    "picoCTF/logon.md",
+    "picoCTF/where are the robots.md",
+    "picoCTF/picobrowser.md",
+    "picoCTF/Level Lets Warm Up.md",
+    "picoCTF/Client-side-again.md",
+    "picoCTF/Level Warmed Up.md",
     "retos-bandit/Untitled/Untitled",
-    "retos-bandit/picoCTF",
-    "retos-bandit/picoCTF/dont-use-client-side.md",
-    "retos-bandit/picoCTF/Insp3ct0r.md",
+    "picoCTF/picoCTF",
+    "picoCTF/dont-use-client-side.md",
+    "picoCTF/Insp3ct0r.md",
     "retos-bandit/Level 32 a 33.md",
     "retos-bandit/Level 28 a 29.md",
     "retos-bandit/Level 13 a 14.md",
@@ -254,10 +255,10 @@
     "retos-bandit/Level 30 a 31 1 1.md",
     "retos-bandit/Level 29 a 30.md",
     "retos-bandit/Level 27 a 28.md",
-    "retos-bandit/picoCTF/Level Bases.md",
-    "retos-bandit/picoCTF/Level strings it.md",
-    "retos-bandit/picoCTF/Level  what's a net cat.md",
-    "retos-bandit/picoCTF/Level 2Warm.md",
+    "picoCTF/Level Bases.md",
+    "picoCTF/Level strings it.md",
+    "picoCTF/Level  what's a net cat.md",
+    "picoCTF/Level 2Warm.md",
     "retos-bandit/Level 26 a 27.md",
     "retos-bandit/Level 25 a 26 1 1.md"
   ]
