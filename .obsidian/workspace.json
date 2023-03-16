@@ -150,9 +150,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1324b4e8511f5494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/where are the robots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53a09fb3dbfab270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/where are the robots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f44d214bfadd6c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Scavenger Hunt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -218,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/JaWT Scratchpad.md",
+                "file": "picoCTF/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/JaWT Scratchpad.md",
+                "file": "picoCTF/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/JaWT Scratchpad.md"
+                "file": "picoCTF/Scavenger Hunt.md"
               }
             }
           }
@@ -279,13 +315,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b5776c1d4a8048aa",
+  "active": "0eecfd5601f61c74",
   "lastOpenFiles": [
-    "picoCTF/Irish-Name-Repo 3.md",
+    "picoCTF/where are the robots.md",
+    "picoCTF/Scavenger Hunt.md",
+    "picoCTF/Cookies.md",
+    "picoCTF/GET aHEAD.md",
     "picoCTF/JaWT Scratchpad.md",
+    "picoCTF/Irish-Name-Repo 3.md",
     "picoCTF/Irish-Name-Repo 2.md",
     "picoCTF/Irish-Name-Repo 1.md",
-    "picoCTF/where are the robots.md",
     "picoCTF",
     "retos-bandit/plantilla.md",
     "picoCTF/logon.md",
@@ -306,9 +345,6 @@
     "retos-bandit/Level 30 a 31.md",
     "retos-bandit/Level 30 a 31 1 1.md",
     "retos-bandit/Level 29 a 30.md",
-    "retos-bandit/Level 27 a 28.md",
-    "picoCTF/Level Bases.md",
-    "picoCTF/Level strings it.md",
-    "picoCTF/Level  what's a net cat.md"
+    "retos-bandit/Level 27 a 28.md"
   ]
 }
