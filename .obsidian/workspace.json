@@ -186,9 +186,129 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4734ed59fc461fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Glory of the Garden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dc1e42306c47849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/So Meta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44349cd24e50beda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/shark on wire 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9314bb40aba0b2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Client-side-again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91c789c862d1115a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/extensions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55b8db2891c7fe23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/What Lies Within.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4b8d5b02634de54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/m00nwalk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efa24768cae717c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/WhitePages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2d821b7ee6b34e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/c0rrupt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "898acd7851755aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/like1000.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -254,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Scavenger Hunt.md",
+                "file": "picoCTF/like1000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Scavenger Hunt.md",
+                "file": "picoCTF/like1000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Scavenger Hunt.md"
+                "file": "picoCTF/like1000.md"
               }
             }
           }
@@ -317,6 +437,18 @@
   },
   "active": "0eecfd5601f61c74",
   "lastOpenFiles": [
+    "picoCTF/c0rrupt.md",
+    "picoCTF/like1000.md",
+    "picoCTF/What Lies Within.md",
+    "picoCTF/WhitePages.md",
+    "picoCTF/m00nwalk.md",
+    "picoCTF/logon.md",
+    "picoCTF/extensions.md",
+    "picoCTF/Client-side-again.md",
+    "picoCTF/shark on wire 2.md",
+    "picoCTF/shark on wire 1.md",
+    "picoCTF/So Meta.md",
+    "picoCTF/Glory of the Garden.md",
     "picoCTF/where are the robots.md",
     "picoCTF/Scavenger Hunt.md",
     "picoCTF/Cookies.md",
@@ -327,24 +459,12 @@
     "picoCTF/Irish-Name-Repo 1.md",
     "picoCTF",
     "retos-bandit/plantilla.md",
-    "picoCTF/logon.md",
     "picoCTF/picobrowser.md",
     "picoCTF/Level Lets Warm Up.md",
-    "picoCTF/Client-side-again.md",
     "picoCTF/Level Warmed Up.md",
     "retos-bandit/Untitled/Untitled",
     "picoCTF/picoCTF",
     "picoCTF/dont-use-client-side.md",
-    "picoCTF/Insp3ct0r.md",
-    "retos-bandit/Level 32 a 33.md",
-    "retos-bandit/Level 28 a 29.md",
-    "retos-bandit/Level 13 a 14.md",
-    "README.md",
-    "retos-bandit/Level 33 a 34.md",
-    "retos-bandit/Level 31 a 32.md",
-    "retos-bandit/Level 30 a 31.md",
-    "retos-bandit/Level 30 a 31 1 1.md",
-    "retos-bandit/Level 29 a 30.md",
-    "retos-bandit/Level 27 a 28.md"
+    "picoCTF/Insp3ct0r.md"
   ]
 }
