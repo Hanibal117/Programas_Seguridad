@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d076fefb0835f19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PEP_picoCTF/PW Crack 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -233,8 +245,9 @@
   },
   "active": "0eecfd5601f61c74",
   "lastOpenFiles": [
-    "PEP_picoCTF/PW Crack 1.md",
+    "PEP_picoCTF/PW Crack 3.md",
     "PEP_picoCTF/PW Crack 2.md",
+    "PEP_picoCTF/PW Crack 1.md",
     "PEP_picoCTF/Glitch Cat.md",
     "PEP_picoCTF/fixme2.py.md",
     "PEP_picoCTF/fixme1.py.md",
@@ -258,7 +271,6 @@
     "PEP_picoCTF/Static ain't always noise.md",
     "PEP_picoCTF/2Warm.md",
     "PEP_picoCTF/Wave a flag.md",
-    "PEP_picoCTF/First Grep.md",
     "PEP_picoCTF",
     "picoCTF",
     "retos-bandit/Untitled/Untitled",
