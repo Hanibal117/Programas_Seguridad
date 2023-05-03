@@ -20,199 +20,67 @@
             }
           },
           {
-            "id": "ce7b3d9e3216403f",
+            "id": "2176cb5aeb6bedb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tapping.md",
+                "file": "picoCTF/Mind your Ps and Qs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a78441d57f641e0",
+            "id": "dc35b23a1ac8c5c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/miniRSA.md",
+                "file": "picoCTF/Pixelated.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3490cde8c1aec965",
+            "id": "57e4c6b259fa42dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/b00tl3gRSA2.md",
+                "file": "picoCTF/basic-mod1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b0e73fba7d18e0b6",
+            "id": "217058f2ac171682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/c0rrupt.md",
+                "file": "picoCTF/HideToSee.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "caa766e6bfd2774a",
+            "id": "b8b3292a7dfa4004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/c0rrupt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c52006bb37d0d879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/c0rrupt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c000c0c1d691d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Cesar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5712e0e56f17c13b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Cesar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6396c5a436744e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8e324b07a6f1838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Waves over lambda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df114bf1a01ab52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/MacroHard WeakEdge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "848752b2efd09c9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/WebNet0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37e3467bfb1fa847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/c0rrupt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "404ca7655e88cca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/What Lies Within.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cf6844e7019b177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/logon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03765eccab08e091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/tunn3l v1s10n.md",
+                "file": "picoCTF/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -278,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/b00tl3gRSA2.md",
+                "file": "picoCTF/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/b00tl3gRSA2.md",
+                "file": "picoCTF/ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/b00tl3gRSA2.md"
+                "file": "picoCTF/ReadMyCert.md"
               }
             }
           }
@@ -341,12 +209,17 @@
   },
   "active": "0eecfd5601f61c74",
   "lastOpenFiles": [
+    "picoCTF/HideToSee.md",
+    "picoCTF/basic-mod1.md",
+    "picoCTF/Pixelated.md",
+    "picoCTF/Mind your Ps and Qs.md",
+    "picoCTF/13.md",
+    "picoCTF/ReadMyCert.md",
     "picoCTF/miniRSA.md",
     "picoCTF/b00tl3gRSA2.md",
     "picoCTF/Tapping.md",
     "picoCTF/rsa-pop-quiz.md",
     "picoCTF/Scavenger Hunt.md",
-    "picoCTF/13.md",
     "picoCTF/c0rrupt.md",
     "picoCTF/Waves over lambda.md",
     "picoCTF/Cesar.md",
@@ -362,11 +235,6 @@
     "picoCTF/WebNet0.md",
     "Participación en picoCTF 2023/who is it.md",
     "Participación en picoCTF 2023/timer.md",
-    "Participación en picoCTF 2023/rotation.md",
-    "Participación en picoCTF 2023/repetitions.md",
-    "Participación en picoCTF 2023/money-ware.md",
-    "Participación en picoCTF 2023/hideme.md",
-    "Participación en picoCTF 2023/Safe Opener 2.md",
     "Participación en picoCTF 2023",
     "PEP_picoCTF",
     "picoCTF",
