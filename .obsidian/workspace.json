@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "262baff45c4701bf",
+            "id": "c83942cc34c7f966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2176cb5aeb6bedb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Mind your Ps and Qs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc35b23a1ac8c5c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Pixelated.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57e4c6b259fa42dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/basic-mod1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "217058f2ac171682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/HideToSee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8b3292a7dfa4004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/ReadMyCert.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "053fd10bb6b67476",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -146,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/ReadMyCert.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/ReadMyCert.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/ReadMyCert.md"
+                "file": "README.md"
               }
             }
           }
@@ -207,34 +154,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0eecfd5601f61c74",
+  "active": "c83942cc34c7f966",
   "lastOpenFiles": [
+    "EP2_picoCTF/St3g0...md",
+    "EP2_picoCTF/13 1.md",
+    "EP2_picoCTF/Redaction gone wrong.md",
+    "EP2_picoCTF/Packets Primer.md",
+    "EP2_picoCTF/Lookey here.md",
+    "EP2_picoCTF/Enhance!.md",
+    "EP2_picoCTF/Wireshark doo dooo do doo....md",
+    "EP2_picoCTF/information.md",
+    "EP2_picoCTF/SQLLite.md",
+    "EP2_picoCTF/SQL Direct.md",
+    "EP2_picoCTF/Secrets.md",
+    "EP2_picoCTF/Roboto Sans.md",
+    "README.md",
+    "EP2_picoCTF/Power Cookie.md",
+    "EP2_picoCTF/13 1 1 1.md",
+    "EP2_picoCTF/Forbidden Paths.md",
+    "EP2_picoCTF/Search source.md",
+    "EP2_picoCTF/Local Authority.md",
+    "EP2_picoCTF/Inspect HTML.md",
+    "picoCTF/13.md",
+    "EP2_picoCTF/Includes.md",
+    "EP2_picoCTF",
     "picoCTF/HideToSee.md",
     "picoCTF/basic-mod1.md",
     "picoCTF/Pixelated.md",
     "picoCTF/Mind your Ps and Qs.md",
-    "picoCTF/13.md",
     "picoCTF/ReadMyCert.md",
-    "picoCTF/miniRSA.md",
-    "picoCTF/b00tl3gRSA2.md",
-    "picoCTF/Tapping.md",
-    "picoCTF/rsa-pop-quiz.md",
-    "picoCTF/Scavenger Hunt.md",
-    "picoCTF/c0rrupt.md",
-    "picoCTF/Waves over lambda.md",
-    "picoCTF/Cesar.md",
-    "picoCTF/la cifra de.md",
-    "picoCTF/Easy1.md",
-    "picoCTF/The Numbers.md",
-    "picoCTF/tunn3l v1s10n.md",
-    "picoCTF/MacroHard WeakEdge.md",
-    "picoCTF/logon.md",
-    "picoCTF/Matryoshka doll.md",
-    "picoCTF/What Lies Within.md",
-    "picoCTF/WebNet1.md",
-    "picoCTF/WebNet0.md",
-    "Participación en picoCTF 2023/who is it.md",
-    "Participación en picoCTF 2023/timer.md",
     "Participación en picoCTF 2023",
     "PEP_picoCTF",
     "picoCTF",
