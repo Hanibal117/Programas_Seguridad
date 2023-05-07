@@ -11,8 +11,12 @@
             "id": "c83942cc34c7f966",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/vault-door-4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/vault-door-4.md"
+              }
             }
           }
         ]
@@ -148,11 +156,17 @@
   },
   "active": "0eecfd5601f61c74",
   "lastOpenFiles": [
+    "picoCTF/vault-door-3.md",
+    "picoCTF/vault-door-4.md",
+    "picoCTF/13.md",
+    "picoCTF/vault-door-1.md",
+    "picoCTF/vault-door-training.md",
+    "EP2_picoCTF/Packets Primer.md",
+    "EP2_picoCTF/Redaction gone wrong.md",
+    "EP2_picoCTF/Roboto Sans.md",
     "README.md",
     "EP2_picoCTF/St3g0...md",
     "EP2_picoCTF/13 1.md",
-    "EP2_picoCTF/Redaction gone wrong.md",
-    "EP2_picoCTF/Packets Primer.md",
     "EP2_picoCTF/Lookey here.md",
     "EP2_picoCTF/Enhance!.md",
     "EP2_picoCTF/Wireshark doo dooo do doo....md",
@@ -160,21 +174,15 @@
     "EP2_picoCTF/SQLLite.md",
     "EP2_picoCTF/SQL Direct.md",
     "EP2_picoCTF/Secrets.md",
-    "EP2_picoCTF/Roboto Sans.md",
     "EP2_picoCTF/Power Cookie.md",
     "EP2_picoCTF/13 1 1 1.md",
     "EP2_picoCTF/Forbidden Paths.md",
     "EP2_picoCTF/Search source.md",
     "EP2_picoCTF/Local Authority.md",
     "EP2_picoCTF/Inspect HTML.md",
-    "picoCTF/13.md",
     "EP2_picoCTF/Includes.md",
     "EP2_picoCTF",
     "picoCTF/HideToSee.md",
-    "picoCTF/basic-mod1.md",
-    "picoCTF/Pixelated.md",
-    "picoCTF/Mind your Ps and Qs.md",
-    "picoCTF/ReadMyCert.md",
     "Participación en picoCTF 2023",
     "PEP_picoCTF",
     "picoCTF",
