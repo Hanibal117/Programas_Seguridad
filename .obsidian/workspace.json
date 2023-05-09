@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/asm3.md",
+                "file": "picoCTF/Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/asm3.md",
+                "file": "picoCTF/Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/asm3.md",
+                "file": "picoCTF/Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/asm3.md"
+                "file": "picoCTF/Safe Opener 2.md"
               }
             }
           }
@@ -157,6 +157,10 @@
   "active": "0eecfd5601f61c74",
   "lastOpenFiles": [
     "picoCTF/13.md",
+    "picoCTF/Safe Opener 2.md",
+    "picoCTF/reverse_cipher.md",
+    "picoCTF/GDB Test Driv.md",
+    "picoCTF/Need For Speed.md",
     "picoCTF/asm3.md",
     "picoCTF/asm2.md",
     "picoCTF/asm1.md",
@@ -178,10 +182,6 @@
     "EP2_picoCTF/SQL Direct.md",
     "EP2_picoCTF/Secrets.md",
     "EP2_picoCTF/Power Cookie.md",
-    "EP2_picoCTF/13 1 1 1.md",
-    "EP2_picoCTF/Forbidden Paths.md",
-    "EP2_picoCTF/Search source.md",
-    "EP2_picoCTF/Local Authority.md",
     "EP2_picoCTF",
     "Participación en picoCTF 2023",
     "PEP_picoCTF",
