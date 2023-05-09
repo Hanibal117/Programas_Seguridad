@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/vault-door-4.md",
+                "file": "picoCTF/asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/vault-door-4.md",
+                "file": "picoCTF/asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/vault-door-4.md",
+                "file": "picoCTF/asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/vault-door-4.md"
+                "file": "picoCTF/asm3.md"
               }
             }
           }
@@ -156,9 +156,12 @@
   },
   "active": "0eecfd5601f61c74",
   "lastOpenFiles": [
-    "picoCTF/vault-door-3.md",
-    "picoCTF/vault-door-4.md",
     "picoCTF/13.md",
+    "picoCTF/asm3.md",
+    "picoCTF/asm2.md",
+    "picoCTF/asm1.md",
+    "picoCTF/vault-door-4.md",
+    "picoCTF/vault-door-3.md",
     "picoCTF/vault-door-1.md",
     "picoCTF/vault-door-training.md",
     "EP2_picoCTF/Packets Primer.md",
@@ -179,10 +182,7 @@
     "EP2_picoCTF/Forbidden Paths.md",
     "EP2_picoCTF/Search source.md",
     "EP2_picoCTF/Local Authority.md",
-    "EP2_picoCTF/Inspect HTML.md",
-    "EP2_picoCTF/Includes.md",
     "EP2_picoCTF",
-    "picoCTF/HideToSee.md",
     "Participación en picoCTF 2023",
     "PEP_picoCTF",
     "picoCTF",
