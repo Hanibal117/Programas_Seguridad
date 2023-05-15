@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/buffer overflow 1.md",
+                "file": "picoCTF/Stonks.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/buffer overflow 1.md",
+                "file": "picoCTF/Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/buffer overflow 1.md",
+                "file": "picoCTF/Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/buffer overflow 1.md"
+                "file": "picoCTF/Stonks.md"
               }
             }
           }
@@ -170,6 +170,7 @@
   "active": "0eecfd5601f61c74",
   "lastOpenFiles": [
     "picoCTF/13.md",
+    "picoCTF/Stonks.md",
     "picoCTF/buffer overflow 1.md",
     "picoCTF/buffer overflow 0.md",
     "picoCTF/basic-file-exploit.md",
@@ -194,7 +195,6 @@
     "EP2_picoCTF/Enhance!.md",
     "EP2_picoCTF/Wireshark doo dooo do doo....md",
     "EP2_picoCTF/information.md",
-    "EP2_picoCTF/SQLLite.md",
     "EP2_picoCTF",
     "Participación en picoCTF 2023",
     "PEP_picoCTF",
