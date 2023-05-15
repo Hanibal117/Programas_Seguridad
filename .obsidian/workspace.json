@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c52b55671a7b3dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/buffer overflow 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Safe Opener 2.md",
+                "file": "picoCTF/buffer overflow 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Safe Opener 2.md",
+                "file": "picoCTF/buffer overflow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Safe Opener 2.md"
+                "file": "picoCTF/buffer overflow 1.md"
               }
             }
           }
@@ -157,6 +170,9 @@
   "active": "0eecfd5601f61c74",
   "lastOpenFiles": [
     "picoCTF/13.md",
+    "picoCTF/buffer overflow 1.md",
+    "picoCTF/buffer overflow 0.md",
+    "picoCTF/basic-file-exploit.md",
     "picoCTF/Safe Opener 2.md",
     "picoCTF/reverse_cipher.md",
     "picoCTF/GDB Test Driv.md",
@@ -179,9 +195,6 @@
     "EP2_picoCTF/Wireshark doo dooo do doo....md",
     "EP2_picoCTF/information.md",
     "EP2_picoCTF/SQLLite.md",
-    "EP2_picoCTF/SQL Direct.md",
-    "EP2_picoCTF/Secrets.md",
-    "EP2_picoCTF/Power Cookie.md",
     "EP2_picoCTF",
     "Participación en picoCTF 2023",
     "PEP_picoCTF",
