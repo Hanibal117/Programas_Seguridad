@@ -9,4 +9,5 @@ clashimperila117@gmail.com
 - PEP_CTF
 - EP2_picoCTF
 - Participación en picoCTF 2023
+- EP3_picoCTF
 

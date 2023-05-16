@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Safe Opener 2.md",
+                "file": "EP3_picoCTF/two-sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Stonks.md",
+                "file": "EP3_picoCTF/GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Stonks.md",
+                "file": "EP3_picoCTF/two-sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Stonks.md",
+                "file": "EP3_picoCTF/two-sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Stonks.md"
+                "file": "EP3_picoCTF/two-sum.md"
               }
             }
           }
@@ -167,34 +166,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0eecfd5601f61c74",
+  "active": "c83942cc34c7f966",
   "lastOpenFiles": [
+    "EP3_picoCTF/clutter-overflow.md",
+    "EP3_picoCTF/two-sum.md",
+    "EP3_picoCTF/Local Target.md",
+    "EP3_picoCTF/Picker IV.md",
+    "EP3_picoCTF/GDB baby step 2.md",
+    "EP3_picoCTF/Bit-O-Asm-4.md",
+    "EP3_picoCTF/Bit-O-Asm-3.md",
+    "picoCTF/Safe Opener 2.md",
+    "EP3_picoCTF/GDB baby step 1.md",
+    "EP3_picoCTF/Bit-O-Asm-2.md",
+    "EP3_picoCTF/Bit-O-Asm-1.md",
+    "EP3_picoCTF/ASCII FTW.md",
+    "EP3_picoCTF/SRA.md",
+    "EP3_picoCTF/Vigenere.md",
+    "EP3_picoCTF/transposition-trial.md",
+    "EP3_picoCTF/Mr-Worldwide.md",
+    "EP3_picoCTF/Flags.md",
+    "README.md",
     "picoCTF/13.md",
     "picoCTF/Stonks.md",
+    "EP3_picoCTF",
     "picoCTF/buffer overflow 1.md",
     "picoCTF/buffer overflow 0.md",
     "picoCTF/basic-file-exploit.md",
-    "picoCTF/Safe Opener 2.md",
     "picoCTF/reverse_cipher.md",
     "picoCTF/GDB Test Driv.md",
     "picoCTF/Need For Speed.md",
-    "picoCTF/asm3.md",
-    "picoCTF/asm2.md",
-    "picoCTF/asm1.md",
-    "picoCTF/vault-door-4.md",
-    "picoCTF/vault-door-3.md",
-    "picoCTF/vault-door-1.md",
-    "picoCTF/vault-door-training.md",
-    "EP2_picoCTF/Packets Primer.md",
-    "EP2_picoCTF/Redaction gone wrong.md",
-    "EP2_picoCTF/Roboto Sans.md",
-    "README.md",
-    "EP2_picoCTF/St3g0...md",
-    "EP2_picoCTF/13 1.md",
-    "EP2_picoCTF/Lookey here.md",
-    "EP2_picoCTF/Enhance!.md",
-    "EP2_picoCTF/Wireshark doo dooo do doo....md",
-    "EP2_picoCTF/information.md",
     "EP2_picoCTF",
     "Participación en picoCTF 2023",
     "PEP_picoCTF",
